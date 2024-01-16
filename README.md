@@ -1,2 +1,2 @@
 # git215_setup
-module 1 homework
+## Author: Zachary Fraedrich
